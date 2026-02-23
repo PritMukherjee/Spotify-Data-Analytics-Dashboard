@@ -33,6 +33,18 @@ The goal was to transform raw music data into meaningful insights through intera
 - 🔥 Top Hits by Artist  
 
 ---
+## 📊 Dashboard
+
+### 🎧 Overview Page
+![Spotify Dashboard Overview](https://raw.githubusercontent.com/PritMukherjee/Spotify-Data-Analytics-Dashboard/main/Screenshot%202026-02-22%20011033.png)
+
+### 🎤 Artist & Song Analysis Page
+![Spotify Dashboard Analysis](https://raw.githubusercontent.com/PritMukherjee/Spotify-Data-Analytics-Dashboard/main/Screenshot%202026-02-22%20213537.png)
+
+
+
+
+
 
 ## ⚙️ Project Process
 
